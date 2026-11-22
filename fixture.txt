@@ -1,0 +1,3 @@
+Repository: fixture-public-tatooine
+Branch: feature/beta
+Revision: 1
