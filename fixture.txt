@@ -1,3 +1,3 @@
 Repository: fixture-public-tatooine
 Branch: release
-Revision: 2
+Revision: 3
